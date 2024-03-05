@@ -1,6 +1,6 @@
 # CSC506 - Design and Analysis of Algorithms Assignments
 
-Welcome to the CSC506 course repository. This graduate course is dedicated to providing students with a foundational understanding of algorithm design and analysis. Here, you will find my weekly critical thinking assignments designed to enhance your understanding of various algorithms and data structures.
+Welcome to my CSC506 course repository. This graduate course is dedicated to providing students with a foundational understanding of algorithm design and analysis. Here, you will find my weekly critical thinking assignments designed to enhance your understanding of various algorithms and data structures.
 
 ## Course Description
 
